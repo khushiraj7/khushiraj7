@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Khushi Raj <br><br>- 🔭 BS-MS Student at Indian Institue of Science Education and Research(IISER) Berhampur<br>- 📚 I'm currently learning Machine Learning</p>
+<p align="left">I'm Khushi Raj <br><br>- 🔭 BS-MS Student at Indian Institue of Science Education and Research(IISER) Berhampur<br>- 📚 I'm currently learning Quantum Information</p>
 
 ###
 
